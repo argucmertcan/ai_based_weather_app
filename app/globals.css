@@ -1,0 +1,2 @@
+@import 'tailwindcss';
+body{margin:0;background:#0a1220;color:#edf3fc;font-family:Arial,sans-serif}button,input{font:inherit}button{cursor:pointer}input:focus{outline:2px solid #72d5bf} .panel{background:#131f30;border:1px solid #273448;border-radius:24px} .muted{color:#98aabe}
